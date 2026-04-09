@@ -1,0 +1,14 @@
+{
+    "name": {
+        "en": "Second",
+        "ar": "second"
+    },
+    "description": {
+        "en": "",
+        "ar": ""
+    },
+    "author_email": "amri.houcem.eddine@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/houssem-amri/tw-second",
+    "components": []
+}
